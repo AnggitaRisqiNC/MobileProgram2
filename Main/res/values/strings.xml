@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Niang</string>
+    <string name="apakabar001">Bagaimana Kabarnya ?</string>
+    <string name="Hallo">Tinggal dimana sekarang!</string>
+    <string name="button_label_fibonacci">Project Fibonacci</string>
+    <string name="button_label_count">Project Count</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="count_initial_value">0</string>
+    <string name="fibonacci_message">Bilangan Fibonacci!</string>
+    <string name="button_count">Count</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="enter_fibonacci_limit">Masukkan Limit Angka</string>
+
+    <string name="button_alarm">Alarm</string>
+
+    <string name="button_label_pro_sianida">Project Sianida</string>
+    <string name="button_label_pro_two_activity">Project Chat</string>
+    <string name="button_label_pro_set_alarm">Project Set Alarm</string>
+    <string name="button_label_hello">Project Hello</string>
+    <string name="button_label_maps">Project Maps</string>
+    <string name="button_label_movie">Project Movie</string>
+    <string name="button_none">Project None</string>
+
+    <string name="top_logo">Niang Apps</string>
+
+    <string name="toast_pesan">Hebat Bro!</string>
+    <string name="fragment_top">Movie and Series</string>
+
+    <string name="judul_sinopsis1">My Demon</string>
+    <string name="judul_sinopsis2">Ballerina</string>
+    <string name="judul_sinopsis3">Sweet Home 2</string>
+    <string name="judul_sinopsis4">Celebrity</string>
+
+    <string name="sinopsis1">CEO wanita karismatik Do Hee terikat kontrak pernikahan tak terduga dengan Gu Won, pria iblis tampan yang kehilangan kekuatannya. \n\nKehidupan Do Hee pun jungkir balik karena harus menyembunyikan identitas sang suami sambil menghadapi intrik bisnis, romansa tak biasa, dan rahasia kelam di balik kehilangan kekuatan Gu Won. \n\nMy Demon menyuguhkan kisah fantasi-romantis yang penuh intrik, humor gelap, dan pertanyaan tentang arti cinta ketika manusia dan iblis bersatu.</string>
+    <string name="sinopsis2">Lee Doo-na, mantan idol K-Pop populer, tiba-tiba pensiun di puncak kariernya. Pensiun dari gemerlap dunia hiburan, Doo-na memilih pindah ke asrama mahasiswa. \n\nDunia barunya penuh kejutan dan konflik: ia bertetangga dengan Won-jun yang lugu dan penuh rahasia, menghadapi tekanan ekspektasi masa lalunya, dan berusaha menemukan jati diri di luar sorotan spotlight.\n\nRomansa, komedi, dan drama berpadu dalam perjalanan Doo-na menemukan arti sebenarnya dari bahagia di luar panggung gemerlap.</string>
+    <string name="sinopsis3">Woo Young-woo (diperankan oleh Park Eun-bin) adalah seorang pengacara muda jenius dengan IQ 164 dan memori fotografis yang luar biasa. \n\nNamun, ia juga memiliki gangguan spektrum autisme (ASD) yang membuatnya kesulitan bersosialisasi dan memahami emosi orang lain. Yoo Young-woo bermimpi menjadi pengacara sejak kecil dan berhasil diterima bekerja di sebuah firma hukum besar. \n\nDi sana, ia menghadapi berbagai tantangan dan prasangka karena kondisi ASD-nya. Namun, dengan kecerdasan, perspektif unik, dan tekad yang kuat, Young-woo berhasil memecahkan kasus-kasus hukum yang rumit dan membuktikan kemampuannya kepada rekan-rekan kerjanya.</string>
+    <string name="sinopsis4">Ok-ju sedang melalui masa sulit dan sedang beristirahat dari pekerjaannya yang penuh tekanan sebagai pengawal pribadi elit untuk klien VIP. \n\nSetelah bertahun-tahun terpisah, Ok-ju bertemu kembali dengan temannya Min-hee. Min Hee adalah seorang balerina profesional yang juga bekerja paruh waktu di toko roti. Min-hee bunuh diri dan meninggalkan sebuah catatan siapa alasan dibalik ia melakukan hal itu. \n\nBerduka karena kematian sahabat yang gagal ia lindungi, mantan pengawal pribadi ini, Ok-ju, bertekad memenuhi harapan terakhir sang sahabat: balas dendam yang memuaskan.</string>
+    <string name="sinopsis5">Di Bumi yang hancur akibat polusi, Sa Wol, pengungsi muda miskin, bermimpi menjadi ksatria legendaris "Black Knight" yang menjaga sumber oksigen bagi para penyintas. Nasib mempertemukannya dengan Knight 5-8, sosok Black Knight sejati namun misterius. \n\nDalam dunia dystopian dengan ancaman makhluk asing dan korporasi jahat, Sa Wol dilatih, bertarung, dan tumbuh bersama sang ksatria, menguak konspirasi kelam dan mempertaruhkan segalanya untuk menyelamatkan masa depan Bumi yang suram.</string>
+    <string name="sinopsis6">My Name adalah drama Korea thriller yang menceritakan tentang Yoon Ji-woo (Han So-hee), seorang wanita muda yang bergabung dengan geng narkoba untuk membalas dendam atas kematian ayahnya. \n\nSetelah menjadi agen polisi bawah tanah, Ji-woo menyusup ke dalam organisasi kejahatan yang dipimpin oleh Choi Mu-jin (Park Hee-soon), orang yang bertanggung jawab atas kematian ayahnya. \n\nJi-woo harus menghadapi bahaya dan tantangan yang tak terduga di sepanjang perjalanannya untuk membalas dendam.</string>
+    <string name="sinopsis7">Lee Na-Mi (Chun Woo-Hee) seorang marketer perusahaan start-up yang kehilangan ponselnya ketika pulang setelah berpesta. \n\nKehilangan ponsel yang berisi data pribadinya membawa Na-mi, wanita karir muda, ke neraka dunia maya. Ponselnya jatuh ke tangan Oh Jun-yeong, sosok pemikat berhati dingin. \n\nJun-yeong menggunakan identitas digital Na-mi untuk kejahatan, teror, dan bahkan pembunuhan. \n\nNa-mi harus berpacu dengan waktu untuk merebut kembali hidupnya, dibantu detektif berdedikasi yang menerjangkung misteri ponsel hilang nan mematikan.</string>
+    <string name="sinopsis8">Kim Mo Mi, wanita biasa pemalu bermimpi jadi terkenal. Ia sembunyi di balik topeng untuk menjadi "Mask Girl" live streamer sukses, menikmati kemasyhuran daring yang ia dambakan. \n\nTapi rahasia online berbenturan dengan realita saat ia terlibat kasus tak terduga. \n\nKini, Mo Mi harus berayun antara tiga identitas, menghadapi bahaya dan intrik, sambil bergulat dengan siapa dirinya sebenarnya di balik topeng dan sorotan lampu.</string>
+    <string name="sinopsis9">Seo A-ri, gadis muda yang terlahir kaya namun jatuh miskin, bertekad mengembalikan kejayaannya dan melarikan diri dari kenyataan pahit. Jalan pintasnya? Dunia influencer media sosial. \n\nDengan kecerdasan dan ambisi, A-ri berjuang keras membangun persona digitalnya, bernavigasi antara persaingan sengit sesama influencer, skema marketing kejam, dan godaan ketenaran instan. \n\nNamun, di balik kilau dunia maya, A-ri dihadapkan pada dilema moral, skandal kelam, dan sisi gelap ketenaran yang tak terduga.</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD</string>
+
+    <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series. For more information, see the Beatles Time Capsule at www.rockument.com. \n\n This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions. \n\n
+
+Highlights include: \n\n
+
+Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs. \n\n
+
+My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal). \n\n
+
+Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys! \n\n
+
+Love Me Do — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version. \n\n
+
+She Loves You – Till There Was You – Twist and Shout — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark. \n\n
+
+Leave My Kitten Alone — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker. \n\n
+
+One After 909 — A song recorded for the ¨C11C album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an feel to it.</string>
+
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>

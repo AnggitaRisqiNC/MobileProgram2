@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="0dp"
+    android:layout_marginEnd="0dp"
+    android:background="@drawable/bgcute"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnHello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnHello"
+        android:text="@string/button_label_hello" />
+
+    <Button
+        android:id="@+id/btnCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnCount"
+        android:text="@string/button_label_count" />
+
+    <Button
+        android:id="@+id/btnFibonacci"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnFibonacci"
+        android:text="@string/button_label_fibonacci" />
+
+    <Button
+        android:id="@+id/btnSianida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnSianida"
+        android:text="@string/button_label_pro_sianida" />
+
+    <Button
+        android:id="@+id/btnTwoActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnTwoActivity"
+        android:text="@string/button_label_pro_two_activity" />
+
+    <Button
+        android:id="@+id/btnSetAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnSetAlarm"
+        android:text="@string/button_label_pro_set_alarm" />
+
+    <Button
+        android:id="@+id/btnMaps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnMaps"
+        android:text="@string/button_label_maps" />
+
+    <Button
+        android:id="@+id/btnMovie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:onClick="btnMovie"
+        android:text="@string/button_label_movie" />
+</LinearLayout>
